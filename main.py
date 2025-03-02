@@ -1,0 +1,6 @@
+basic.show_number(1)
+basic.show_number(2)
+basic.show_number(3)
+basic.show_number(4)
+basic.show_number(5)
+basic.clear_screen()
